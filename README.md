@@ -10,7 +10,7 @@
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
 
-**Your demo:** _add your link here_
+**Your demo:** _[my link is here](https://youtu.be/7TjBI7Z4S84)_ 
 
 
 ## Scenario
@@ -37,11 +37,11 @@ VS 2022 · **GitHub Codespaces** · Replit · library machines
 
 ## Sample output
 ```
-Name: Jordan Lee
-Interest: game tools
+Name: Herberth Sanchez-Gomez
+Interest: Cybersecurity and cloud architecture
 CIS 5 goal: ship every week
 Tool path: GitHub Codespaces
-Fun fact: I debug better after coffee
+Fun fact: I build custom PCs and work on DIY car maintenance
 ```
 
 ## Definition of done
